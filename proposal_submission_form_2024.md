@@ -6,7 +6,7 @@
 
 #### Your team’s hackathon idea in One sentence:
 
-##### `The project is a personalized AI-powered mental health chatbot that helps patients track their emotions between therapy sessions, summarizes the data for therapists, provides suggestions, prevents crises with an alert system, and allows for voice interaction and appointment rescheduling.`
+##### `The project is a personalized AI-powered mental health chatbot that helps patients track their emotions between therapy sessions, summarizes the data for therapists, provides suggestions, prevents crises with an alert system, and allows for voice interaction.`
 
 #### A visual
 
