@@ -12,7 +12,7 @@
 
 ![Mental Health Chatbot](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20240402053244/ri/750/src/images/news/ImageForNews_776106_17120503566014388.jpg)
 
-#### `Image obtained from "https://www.news-medical.net/news/20240402/Can-generative-AI-truly-transform-healthcare-into-a-more-personalized-experience.aspx"`
+#### Image obtained from `"https://www.news-medical.net/news/20240402/Can-generative-AI-truly-transform-healthcare-into-a-more-personalized-experience.aspx"`
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true">
@@ -26,11 +26,11 @@
 
 - [ ] Access to care
   > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
-- [x] Patient satisfaction
+- [ ] Patient satisfaction
   > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
 - [ ] New patient experience
   > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
-- [ ] Managing my health
+- [x] Managing my health
   > It’s easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
 - [x] Addressing mental health challenges
   > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
