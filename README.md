@@ -2,7 +2,7 @@
 
 #### Team Number: `Team-130`  
 
-#### Team Name: `Human.exeE`    
+#### Team Name: `Human.exe`    
 
 #### Team Coordinator GitHub Username: `Ivancabreradev`
 
@@ -13,9 +13,13 @@
 - Gerardo Martinez - gerameraki
 
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `Develop an algorithm that connects each individual’s skills to the labor market by identifying individual structural patterns that limit the employment inclusion of people in vulnerable situations, and use that information to analyze, identify, and link the causes of why they were excluded, even when they have proven skills.`
 
 #### A visual
+
+![Imagen de WhatsApp 2025-11-08 a las 18 27 11_ab53cce5](https://github.com/user-attachments/assets/6523b9fd-5762-451b-af97-423e6d269ec2)
+
+
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
